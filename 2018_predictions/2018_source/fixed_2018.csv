@@ -1,0 +1,45 @@
+,name_x,Rk,first name,last name,Pos,Age,Type,OTm,2017-18 Stats,WS,NTm,Terms,Notes,Player-additional,Unnamed: 0,age,position,team,faStatus,total-contract,average,name_y
+0,jjredick,11,J.J.,Redick,G,38-157,UFA,PHI,17.1 Pts 2.5 Reb 3.0 Ast,6.6,PHI,Signed 1-yr $12.25MM contract,,redicjj01,30,33,SG,LAC,UFA,23000000,23000000,jjredick
+1,kentaviouscaldwellpope,17,Kentavious,Caldwell-Pope,G,29-283,UFA,LAL,13.4 Pts 5.2 Reb 2.2 Ast,5.3,LAL,Signed 1-yr $12MM contract,,caldwke01,36,24,SG,DET,UFA,17745894,17745894,kentaviouscaldwellpope
+2,anthonytolliver,18,Anthony,Tolliver,F-C,37-180,UFA,DET,8.9 Pts 3.1 Reb 1.1 Ast,5.3,MIN,Signed 1-yr $5.75MM contract,,tollian01,67,32,PF,SAC,UFA,3290000,3290000,anthonytolliver
+3,dirknowitzki,20,Dirk,Nowitzki,F,44-162,UFA,DAL,12.0 Pts 5.7 Reb 1.6 Ast,4.8,DAL,Signed 1-yr $5MM contract,,nowitdi01,57,39,PF,DAL,UFA,5000000,5000000,dirknowitzki
+4,tyrekeevans,27,Tyreke,Evans,G-F,33-070,UFA,MEM,19.4 Pts 5.1 Reb 5.2 Ast,4.2,IND,Signed 1-yr $12.4MM contract,,evansty01,68,28,SF,SAC,UFA,3290000,3290000,tyrekeevans
+5,amirjohnson,28,Amir,Johnson,F-C,35-211,UFA,PHI,4.6 Pts 4.5 Reb 1.6 Ast,4.1,PHI,Signed 1-yr minimum salary contract,,johnsam01,43,30,PF,BOS,UFA,11000000,11000000,amirjohnson
+6,jeffgreen,31,Jeff,Green,F,36-092,UFA,CLE,10.8 Pts 3.2 Reb 1.3 Ast,3.9,WAS,Signed 1-yr minimum salary contract,,greenje02,82,31,SF,ORL,UFA,2328652,2328652,jeffgreen
+7,rajonrondo,35,Rajon,Rondo,G,36-279,UFA,NOP,8.3 Pts 4.0 Reb 8.2 Ast,3.6,LAL,Signed 1-yr $9MM contract,,rondora01,65,31,PG,CHI,UFA,3300000,3300000,rajonrondo
+8,davidwest,36,David,West,F-C,42-091,UFA,GSW,6.8 Pts 3.3 Reb 1.9 Ast,3.5,,Retired,,westda01,85,37,PF,GSW,UFA,2328652,2328652,davidwest
+9,jonasjerebko,37,Jonas,Jerebko,F,35-271,UFA,UTA,5.8 Pts 3.3 Reb 0.6 Ast,3.4,GSW,Signed 1-yr minimum salary contract,,jerebjo01,51,30,PF,BOS,UFA,8200000,4100000,jonasjerebko
+10,zazapachulia,39,Zaza,Pachulia,C,38-291,UFA,GSW,5.4 Pts 4.7 Reb 1.6 Ast,3.3,DET,Signed 1-yr minimum salary contract,,pachuza01,62,33,C,GSW,UFA,3477600,3477600,zazapachulia
+11,rudygay,43,Rudy,Gay,F,36-103,UFA,SAS,11.5 Pts 5.1 Reb 1.3 Ast,3.1,SAS,Signed 1-yr $10.087MM contract,,gayru01,37,31,SF,SAC,UFA,17232300,8616150,rudygay
+12,aronbaynes,44,Aron,Baynes,C,35-354,UFA,BOS,6.0 Pts 5.4 Reb 1.1 Ast,3.0,BOS,Signed 2-yr $10.647MM contract,,baynear01,59,30,PF,DET,UFA,4328000,4328000,aronbaynes
+13,javalemcgee,53,JaVale,McGee,C,34-313,UFA,GSW,4.8 Pts 2.6 Reb 0.5 Ast,2.7,LAL,Signed 1-yr minimum salary contract,,mcgeeja01,90,29,C,GSW,UFA,2116955,2116955,javalemcgee
+14,mikescott,57,Mike,Scott,F,34-135,UFA,WAS,8.8 Pts 3.3 Reb 1.1 Ast,2.5,LAC,Signed 1-yr $4.321MM contract,,scottmi01,96,29,PF,PHX,UFA,1709538,1709538,mikescott
+15,michaelbeasley,58,Michael,Beasley,F,33-323,UFA,NYK,13.2 Pts 5.6 Reb 1.7 Ast,2.4,LAL,Signed 1-yr $3.5MM contract,,beaslmi01,89,28,SF,MIL,UFA,2116955,2116955,michaelbeasley
+16,dantecunningham,59,Dante,Cunningham,F,35-220,UFA,BRK,5.7 Pts 4.1 Reb 0.7 Ast,2.4,SAS,Signed 1-yr $2.487MM contract,,cunnida01,86,30,PF,NOP,UFA,2300000,2300000,dantecunningham
+17,omricasspi,65,Omri,Casspi,F,34-159,UFA,GSW,5.7 Pts 3.8 Reb 1.0 Ast,2.2,MEM,Signed 1-yr minimum salary contract,,casspom01,94,29,SF,MIN,UFA,2106470,2106470,omricasspi
+18,raymondfelton,66,Raymond,Felton,G,38-155,UFA,OKC,6.9 Pts 1.9 Reb 2.5 Ast,2.2,OKC,Signed 1-yr minimum salary contract,,feltora01,84,33,PG,LAC,UFA,2328652,2328652,raymondfelton
+19,geraldgreen,68,Gerald,Green,G-F,36-306,UFA,HOU,12.1 Pts 3.2 Reb 0.6 Ast,2.1,HOU,Signed 1-yr minimum salary contract,,greenge01,75,31,SG,BOS,UFA,2328652,2328652,geraldgreen
+20,shelvinmack,69,Shelvin,Mack,G,32-220,UFA,ORL,6.9 Pts 2.4 Reb 3.9 Ast,1.9,MEM,Signed 1-yr minimum salary contract,,macksh01,42,27,PG,UTH,UFA,12000000,6000000,shelvinmack
+21,nickyoung,74,Nick,Young,G-F,37-180,UFA,GSW,7.3 Pts 1.6 Reb 0.5 Ast,1.7,,,,youngni01,55,32,SF,LAL,UFA,5192000,5192000,nickyoung
+22,tarikblack,78,Tarik,Black,C-F,31-006,UFA,HOU,3.5 Pts 3.2 Reb 0.3 Ast,1.5,,Will reportedly play in Israel,,blackta01,66,25,C,LAL,UFA,3290000,3290000,tarikblack
+23,jamalcrawford,83,Jamal,Crawford,G,42-253,UFA,MIN,10.3 Pts 1.2 Reb 2.3 Ast,1.3,,,,crawfja01,50,37,SG,ATL,UFA,8872400,4436200,jamalcrawford
+24,joffreylauvergne,84,Joffrey,Lauvergne,C-F,31-059,UFA,SAS,4.1 Pts 3.1 Reb 0.7 Ast,1.3,,Will reportedly play in Turkey,,lauvejo01,70,25,PF,CHI,UFA,3180397,1590199,joffreylauvergne
+25,nerlensnoel,85,Nerlens,Noel,C-F,28-232,UFA,DAL,4.4 Pts 5.6 Reb 0.7 Ast,1.3,OKC,Signed 2-yr minimum salary contract,,noelne01,60,23,C,DAL,RFA,4187598,4187598,nerlensnoel
+26,vincecarter,86,Vince,Carter,G-F,45-306,UFA,SAC,5.4 Pts 2.6 Reb 1.2 Ast,1.2,ATL,Signed 1-yr minimum salary contract,,cartevi01,52,40,SG,MEM,UFA,8000000,8000000,vincecarter
+27,ianclark,90,Ian,Clark,G,31-266,UFA,NOP,7.4 Pts 1.7 Reb 1.5 Ast,1.1,NOP,Signed 1-yr minimum salary contract,,clarkia01,97,26,SG,GSW,UFA,1577230,1577230,ianclark
+28,lukebabbitt,95,Luke,Babbitt,F,33-161,UFA,MIA,5.2 Pts 1.9 Reb 0.6 Ast,0.9,,,,babbilu01,95,28,SF,MIA,UFA,1974159,1974159,lukebabbitt
+29,michaelcarterwilliams,96,Michael,Carter-Williams,G,31-049,UFA,CHO,4.6 Pts 2.7 Reb 2.2 Ast,0.9,HOU,Signed 1-yr minimum salary contract,,cartemi01,74,25,PG,CHI,UFA,2700000,2700000,michaelcarterwilliams
+30,tylerennis,98,Tyler,Ennis,G,28-096,UFA,LAL,4.1 Pts 1.8 Reb 1.9 Ast,0.8,,Will reportedly play in Turkey,,ennisty01,69,23,PG,LAL,UFA,3180397,1590199,tylerennis
+31,shabazzmuhammad,100,Shabazz,Muhammad,F-G,30-015,UFA,MIL,5.0 Pts 1.8 Reb 0.3 Ast,0.7,MIL,Signed training camp deal,,muhamsh01,63,24,SF,MIN,UFA,3372245,1686123,shabazzmuhammad
+32,jasonterry,101,Jason,Terry,G,45-074,UFA,MIL,3.3 Pts 0.9 Reb 1.2 Ast,0.7,,,,terryja01,76,40,SG,MIL,UFA,2328652,2328652,jasonterry
+33,marreesespeights,112,Marreese,Speights,C-F,35-116,UFA,ORL,7.7 Pts 2.6 Reb 0.8 Ast,0.6,,Will reportedly play in China,,speigma01,91,30,C,LAC,UFA,2116955,2116955,marreesespeights
+34,troywilliams,119,Troy,Williams,F,27-333,UFA,NYK,6.3 Pts 3.0 Reb 0.8 Ast,0.5,NOP,Signed 2-yr $3.158MM contract second year team option,,willitr02,58,22,SF,HOU,RFA,4693068,1564356,troywilliams
+35,jordanmickey,125,Jordan,Mickey,F,28-142,UFA,MIA,4.0 Pts 3.5 Reb 0.4 Ast,0.3,,Will reportedly play in Russia,,mickejo01,101,23,PF,BOS,UFA,1471382,1471382,jordanmickey
+36,ramonsessions,128,Ramon,Sessions,G,36-231,UFA,WAS,4.9 Pts 1.4 Reb 2.8 Ast,0.3,,,,sessira01,78,31,PG,CHA,UFA,2328652,2328652,ramonsessions
+37,marcusgeorgeshunt,134,Marcus,Georges-Hunt,G,28-245,RFA,MIN,1.4 Pts 0.4 Reb 0.2 Ast,0.2,BOS,Signed training camp deal,,georgma01,108,23,SG,ORL,UFA,1312611,1312611,marcusgeorgeshunt
+38,arronafflalo,142,Arron,Afflalo,G-F,37-044,UFA,ORL,3.4 Pts 1.2 Reb 0.6 Ast,0.1,,,,afflaar01,79,31,SG,SAC,UFA,2328652,2328652,arronafflalo
+39,aaronbrooks,143,Aaron,Brooks,G,37-318,UFA,MIN,2.3 Pts 0.5 Reb 0.6 Ast,0.1,,,,brookaa01,87,32,PG,IND,UFA,2116955,2116955,aaronbrooks
+40,georgesniang,161,Georges,Niang,F,29-164,RFA,UTA,1.0 Pts 1.0 Reb 0.3 Ast,0.0,UTA,Signed 3-yr $4.942MM contract first year guaranteed,,niangge01,107,24,SF,IND,UFA,1312611,1312611,georgesniang
+41,alanwilliams,165,Alan,Williams,F-C,29-304,UFA,PHO,4.0 Pts 4.4 Reb 1.6 Ast,0.0,BRK,Signed two-way contract,,willial03,39,24,PF,PHX,RFA,17000000,5666667,alanwilliams
+42,udonishaslem,167,Udonis,Haslem,F-C,42-172,UFA,MIA,0.6 Pts 0.7 Reb 0.4 Ast,-0.1,MIA,Signed 1-yr minimum salary contract,,hasleud01,81,37,PF,MIA,UFA,2328652,2328652,udonishaslem
+43,derrickrose,178,Derrick,Rose,G,34-055,UFA,MIN,8.4 Pts 1.4 Reb 1.5 Ast,-0.2,MIN,Signed 1-yr minimum salary contract,,rosede01,93,28,PG,NYK,UFA,2106470,2106470,derrickrose
