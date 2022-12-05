@@ -37,7 +37,7 @@
 #         # append the clean column name to headings
 #         headings.append(item)
 #     headings.remove("Rk")
-#     headings[0] = "Full name"
+#     headings[0] = "Player"
 #     all_rows = [] # will be a list for list for all rows
 #     for row_num in range(len(body_rows)): # A row at a time
 #         row = [] # this will old entries for one row
@@ -55,6 +55,8 @@
 #
 #     df = pd.DataFrame(data=all_rows,columns=headings)
 #     df = df.loc[:, ~df.columns.duplicated()]
+#     df = df.assign(Tm=team)
+
 #     result.append(df)
 #
 #

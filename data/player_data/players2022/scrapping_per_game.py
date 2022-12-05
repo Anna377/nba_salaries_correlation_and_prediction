@@ -36,7 +36,7 @@ for team in teamsDictionary.values():
         # append the clean column name to headings
         headings.append(item)
     headings.remove("Rk")
-    headings[0] = "Full name"
+    headings[0] = "Player"
     all_rows = [] # will be a list for list for all rows
     for row_num in range(len(body_rows)): # A row at a time
         row = [] # this will old entries for one row
@@ -53,6 +53,7 @@ for team in teamsDictionary.values():
 
 
     df = pd.DataFrame(data=all_rows,columns=headings)
+    df = df.assign(Tm=team)
     result.append(df)
 
 result = pd.concat(result)

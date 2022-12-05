@@ -2,7 +2,7 @@ from lxml import html
 import requests
 import csv
 
-years = [2015,2016,2017]
+years = [2022]
 
 teams = ['atlanta-hawks', 'boston-celtics', 'brooklyn-nets',
          'charlotte-hornets', 'chicago-bulls', 'cleveland-cavaliers',
@@ -51,23 +51,25 @@ for year in years:
     teams = []
     ages = []
     status = []
+    max_contract = []
 
     for i in lst:
         if players[i] in teamsDictionary.values() and players[i + 1] in teamsDictionary.values():
             if players[i - 3] in positionsDictionary.values():
                 if len(players[i + 3]) > 2:
                     names.append(players[i - 4])
-                    salaries.append(players[i + 4])
+                    salaries.append(players[i + 4])## average
                     totsalaries.append(players[i + 3])
                     ages.append(players[i - 2])
                     status.append(players[i - 1])
                     positions.append(players[i - 3])
                     teams.append(players[i])
+                    max_contract.append(players[i+5])
 
     with open(str(year) + ".csv", 'a') as csvfile:
         filewriter = csv.writer(csvfile, delimiter=',')
         filewriter.writerow(
-            ['last name', 'first name', 'age', 'position', 'team', 'faStatus', 'total-contract', 'average'])
+            ['last name', 'first name', 'age', 'position', 'team', 'faStatus', 'total-contract', 'average', 'max-contract'])
 
     for salary in salaries:
         s = salary.replace("$", "")
@@ -75,6 +77,13 @@ for year in years:
         s = s.replace(" ", "")
         k = int(s)
         numberSalaries.append(k)
+
+    for value in max_contract:
+        s = salary.replace("$", "")
+        s = s.replace(",", "")
+        s = s.replace(" ", "")
+        k = int(s)
+        max_contract.append(k)
 
     for totsalary in totsalaries:
         s = totsalary.replace("$", "")
@@ -100,7 +109,7 @@ for year in years:
                 last = fullName[1]
 
             filewriter.writerow([middle + last, first, ages[i], positions[i], teams[i], status[i], numTotsalaries[i],
-                                 numberSalaries[i]])
+                                 numberSalaries[i], max_contract[i]])
 
 
 
