@@ -3,8 +3,8 @@ library(tidyr)
 library(printr)
 library(dplyr)
 
-stats <- c("Adv", "Per36","Per100P","PerGame","Totals")
-years <- c("2015", "2016", "2017")
+stats <- c("Adv","PerGame","Totals")
+years <- c("2022")
 fixYear <- function(year) {
   for (stat in stats) {
     tableName <- paste("data/player_data/players",

@@ -13,7 +13,7 @@ def joinTables(FA_names, average_salary):
     return FA_names.merge(average_salary, how = 'inner', on = ['last name', 'first name'])
 
 def create_csv():
-    for i in ['2015','2016','2017']:
+    for i in ['2022']:
         fa_csv_name = '/Users/annamartirosyan/PycharmProjects/NBA_salaries/data/salary_data/free_agents_list/' + i + '.csv'
         average_csv_name = '/Users/annamartirosyan/PycharmProjects/NBA_salaries/data/salary_data/fa_signings/' + i + '.csv'
         faNames = pd.read_csv(fa_csv_name)

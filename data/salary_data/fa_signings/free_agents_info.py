@@ -4,19 +4,6 @@ import csv
 
 years = [2022]
 
-teams = ['atlanta-hawks', 'boston-celtics', 'brooklyn-nets',
-         'charlotte-hornets', 'chicago-bulls', 'cleveland-cavaliers',
-         'dallas-mavericks', 'denver-nuggets', 'detroit-pistons',
-         'golden-state-warriors', 'houston-rockets', 'indiana-pacers',
-         'los-angeles-clippers', 'los-angeles-lakers', 'memphis-grizzlies',
-         'miami-heat', 'milwaukee-bucks', 'minnesota-timberwolves',
-         'new-jersey-nets', 'new-orleans-hornets', 'new-york-knicks',
-         'oklahoma-city-thunder', 'orlando-magic', 'philadelphia-76ers',
-         'phoenix-suns', 'portland-trail-blazers', 'sacramento-kings',
-         'san-antonio-spurs', 'toronto-raptors',
-         'utah-jazz', 'washington-wizards'
-         ]
-
 teamsDictionary = {
     'atlanta-hawks': 'ATL', 'boston-celtics': 'BOS', 'brooklyn-nets': 'BKN', 'charlotte-hornets': 'CHA',
     'chicago-bulls': 'CHI', 'cleveland-cavaliers': 'CLE', 'dallas-mavericks': 'DAL', 'denver-nuggets': 'DEN',
@@ -77,13 +64,6 @@ for year in years:
         s = s.replace(" ", "")
         k = int(s)
         numberSalaries.append(k)
-
-    for value in max_contract:
-        s = salary.replace("$", "")
-        s = s.replace(",", "")
-        s = s.replace(" ", "")
-        k = int(s)
-        max_contract.append(k)
 
     for totsalary in totsalaries:
         s = totsalary.replace("$", "")
