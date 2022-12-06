@@ -96,15 +96,9 @@ fig3 = sns.heatmap(corr, mask = mask, linewidths=0.1,vmax=1.0, square=True, cmap
 fig3.figure.savefig("final_correlation_table.png")
 
 
-# In baseball, value over replacement player (or VORP) is a statistic popularized by Keith Woolner that
-# demonstrates how much a hitter or pitcher contributes to their team in comparison to a replacement-level
-# player who is an average fielder at that position and a below average hitter.
 
-
-# # Average points per game
-#
-# # Average turnovers per game
-#
-# # Defensive rebounds per game
-#
-# # overpaid underpaid  todo!!!
+# FG  field goals per 100 team possessions
+# FGA field goals attempts per 100 team possessions
+# X2P 2 point field goals per 100 team possessions
+# X2PA 2 point field goals atteempts per 100 team possessions
+# PTS.G points per game
