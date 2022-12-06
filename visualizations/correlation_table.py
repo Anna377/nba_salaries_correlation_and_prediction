@@ -54,7 +54,7 @@ fig1.figure.savefig("correlation_table.png")
 
 #Selecting candidates
 final2.drop(final2.columns.difference(["GS", "MP","FG", "FGA", "X2P", "X2PA", "FT", "TOV","PTS.G",
-                                       "VORP","X3P","X3PA","DRB","TRB","OWS","DWS","WS"]), axis = 1, inplace = True)
+                                       "VORP","X3P","X3PA","DRB","TRB","OWS","DWS","WS","average"]), axis = 1, inplace = True)
 
 
 #Check correlation between features
@@ -77,7 +77,7 @@ fig2.figure.savefig("more_precise_correlation_table.png")
 # ########################################################################################################################
 
 #Selecting candidates
-final2.drop(final2.columns.difference(["WS","OWS","DWS","DRB","X2P","TRB"] ), axis = 1, inplace = True)
+final2.drop(final2.columns.difference(["FG","FGA","X2P","X2PA","PTS.G","average"] ), axis = 1, inplace = True)
 # Check correlation between features
 sns.set(font_scale=3)
 colormap = plt.cm.magma
